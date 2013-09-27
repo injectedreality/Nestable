@@ -97,5 +97,6 @@ These advanced config options are also available:
 * * *
 
 Author: David Bushell [http://dbushell.com](http://dbushell.com/) [@dbushell](http://twitter.com/dbushell/)
+Contributor: Me
 
 Copyright © 2012 David Bushell | BSD & MIT license
